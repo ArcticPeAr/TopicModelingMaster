@@ -1,5 +1,5 @@
 #Creates proper matrix before using topic modeling and performing great analysis
-#
+#Also other various analyses from the package cistopic
 library(Amelia)
 library(tidyverse)
 
